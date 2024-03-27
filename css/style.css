@@ -88,8 +88,9 @@ h3 {
     color: var(--blanco);
     font-size: 3rem;
 }
-
 .navegacion_enlace--activo,
 .navegacion_enlace:hover {
     color: var(--secundario);
 }
+
+/* productos */
